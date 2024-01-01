@@ -1,4 +1,4 @@
 Solved leetcode problems in C
 
 ## Build
-cc -Wall -fsanitize=address leet[problem #].c
+cc -Wall -O2 -fsanitize=address leet[problem #].c
